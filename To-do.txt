@@ -1,0 +1,22 @@
+To-do:
+/Finish setting up missing tiles
+Incorporate tilemap loading from file
+Incorporate saving to/from file
+Implement particles in main menu/intro
+Implement sprite stacking
+Incorporate intro, title screen, menus, and main game
+Implement debugging info (F3 to view all variables, etc.)?
+Set correct timings
+/Reorganize folders
+
+Intro: 
+       add playing Minun and Plusle at t=15 as they run faster than the screen
+       add static jumping Whimsicott in the foreground at t=18
+       add flying Unown in waves during transition to Phase 2 at t=24
+       add flying Wingull and Gen 3 Pokemon during Phase 2
+       add attacking flying Pokemon at t=29 and Pokemon hurt falling to end Phase 2
+       add attacking Pikachu with lightning-type attack effects and sfx to Phase 3 Cut 1
+       add gen2 attacking Nidorino with attack effects and sfx to Phase 3 Cut 2
+       add gen2 starters to cut 3?
+
+	make pikachu and zubat come in sooner and pause the scrolling to show Snorlax snoring at t=18?
